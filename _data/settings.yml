@@ -15,9 +15,6 @@ menu:
 - name: Series
   path: menu
   url: series.html
-- name: Wiki
-  path: menu
-  url: https://reboare.gitbooks.io/booj-security/content/
 - name: Contact
   path: menu
   url: contact.html
