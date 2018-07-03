@@ -12,9 +12,6 @@ menu:
 - name: Reports
   path: menu
   url: writing.html
-- name: Series
-  path: menu
-  url: series.html
 - name: Contact
   path: menu
   url: contact.html
@@ -25,5 +22,3 @@ social:
   link: https://www.linkedin.com/in/mcraesean97/
 - icon: envelope
   link: mailto:mcraesean97@gmail.com
-- icon: rss-square
-  link: feed.xml
