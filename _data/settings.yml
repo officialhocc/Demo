@@ -23,12 +23,10 @@ menu:
   url: contact.html
 social:
 - icon: github
-  link: https://www.github.com/reboare
-- icon: twitter
-  link: https://twitter.com/reboare
+  link: https://github.com/officialhocc
 - icon: linkedin
-  link: https://www.linkedin.com/in/josiah-beverton-1b1b22b1/
+  link: https://www.linkedin.com/in/mcraesean97/
 - icon: envelope
-  link: mailto:josiah.beverton@gmail.com
+  link: mailto:mcraesean97@gmail.com
 - icon: rss-square
   link: feed.xml
