@@ -9,7 +9,7 @@ menu:
 - name: About
   path: menu
   url: about.html
-- name: Writing
+- name: Reports
   path: menu
   url: writing.html
 - name: Series
